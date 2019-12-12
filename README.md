@@ -1,2 +1,2 @@
-# data_structures_trees
+# Tree Data Structure
 Tree structure coded in C. Open source.
